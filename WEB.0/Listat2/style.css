@@ -1,0 +1,32 @@
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+.Hene {
+    background-color: red;
+}
+
+.marte {
+    background-color: aqua;
+}
+
+.merkure {
+    background-color: orange;
+}
+
+.enjte {
+    background-color: blue;
+}
+
+.premte {
+    background-color: blueviolet;
+}
+
+.Orari {
+    background-color: green;
+}
+ 

@@ -1,0 +1,27 @@
+p{
+color:red;
+background-color: rgba(0,255,255,48);
+word-spacing: 10px;
+text-indent: 100px;
+text-align: justify;
+text-decoration: underline;
+text-transform: capitalize;
+line-height: 48px;
+
+
+};
+
+
+
+/* 0
+backround-color
+rgba rgb hue
+letter-spacing: 5px;
+word-spacing: 5px;
+text-indent: 5px;
+text-aling
+text-decoration
+text-transform
+line-height
+
+*/

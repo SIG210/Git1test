@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(192, 192, 192)
+}
+
+div {
+    display: inline-block;
+    background-color: white;
+    width: 29%;
+    border-radius: 20px;
+    padding: 35px;
+}
+
+span {
+
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+
+p {
+    color: gray;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li::before {
+    content: "✔ ";
+    color: rgb(255, 208, 0);
+}
+
+
+.yellow {
+    color: rgb(255, 208, 0);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.buttoni1 {
+    background-color: lightgray;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* ===================================================================== */
+.blue {
+    color: rgb(0, 81, 255);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.buttoni2 {
+    background-color: transparent;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+.green {
+    color: rgb(1, 136, 1);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.buttoni3 {
+    background-color: transparent;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid gray;
+    color: white;
+    background-color: rgb(2, 158, 2);
+}
+
+/* ===================================================================== */
+a {
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    display: block;
+    text-decoration: none;
+    color: aqua;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:active {
+    color: red;
+}

@@ -1,0 +1,16 @@
+ /* {
+     background-color: aqua;
+     border: 2.5px solid black;
+     width: 150px;
+     display: inline-block;
+ } */
+
+ .member-card {
+     background-color: #f7f7f7;
+     width: 25%;
+
+ }
+
+ #body {
+     background-color: #51666f;
+ }

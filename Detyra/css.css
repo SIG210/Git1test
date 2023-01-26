@@ -1,0 +1,32 @@
+tr:first-child {
+    background-color: #6d7ae0 !important;
+    overflow: hidden;
+
+
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 10px;
+
+}
+
+td .tbody1 {
+    color: #a9a9b5;
+
+}
+
+/* 
+.body1 {
+    background-color:
+} */
+
+tr:nth-of-type(odd) {
+    background-color: #a09e9e;
+
+}
+
+tr {
+    border-bottom: solid rgba(0, 0, 0, 0.1)
+}
+table{}

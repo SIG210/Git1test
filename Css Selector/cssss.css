@@ -1,0 +1,32 @@
+/* h1,
+p,
+ul,
+li,
+ {
+    color: green
+} */
+
+/* .class1 p {
+    color: red;
+} */
+
+p:first-child {
+    color: red
+}
+
+P:last-child {
+    color: blueviolet;
+}
+
+
+
+
+/* + selekton element1 + element2 elemnti i dyt duhet te jet pas element1 */
+
+/* ~ selekton te gjitha elementet pas elementit pare si + por elementi1 ~ elemnti2 edhe te gjitha  */
+
+/* p:first-child selekton fmin e pare e nje objekti qe eshte paragraf */
+
+/* p:nth:child() eshte per cilin numrin e fmis te selekton brenda () vendoset numri i selektimit */
+
+/* p:nth-last-of-type()  njejte si ^^ por eshte me qdo 2 4 6 8 ose 1 3 5 7 even edhe odd*/
